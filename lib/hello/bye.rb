@@ -1,8 +1,7 @@
 
+class Bye
 
-class Goodbye
-
-  def self.bye
+  def self.goodbye
     puts "good bye and have a good day"
   end
   
