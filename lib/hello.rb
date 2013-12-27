@@ -1,6 +1,6 @@
 Class Hello
 
-  def self.sup
+  def sup
     puts "Hello World"
   end
 
