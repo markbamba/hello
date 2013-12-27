@@ -1,4 +1,4 @@
-% cat hello.gemspec
+# cat hello.gemspec
 Gem::Specification.new do |s|
   s.name        = 'hello'
   s.version     = '0.0.0'
