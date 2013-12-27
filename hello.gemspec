@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.date = %q{2013-12-27}
   s.description = %q{A simple hello wogem}
   s.email = %q{markgreenan35@gmail.com}
-  s.files = [ "lib/hola.rb",  "bin/hola"]
+  s.files = [ "lib/hello.rb",  "bin/hello"]
   s.homepage = %q{http://rubygems.org/gems/hola}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.6.2}
